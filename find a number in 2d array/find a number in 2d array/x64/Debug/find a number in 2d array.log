@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\find a number in 2d array\find a number in 2d array\源.cpp(10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\find a number in 2d array\find a number in 2d array\源.cpp(24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  find a number in 2d array.vcxproj -> C:\Users\Administrator\source\repos\find a number in 2d array\x64\Debug\find a number in 2d array.exe
